@@ -1,0 +1,8 @@
+# CSV files
+*.csv
+
+# Spyder project files
+.spyproject/
+
+# tving_crawler directory
+tving_crawler/
